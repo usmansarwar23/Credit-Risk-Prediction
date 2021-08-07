@@ -1,5 +1,5 @@
 # Credit-Risk-Prediction
-This reprository is my solution to the [Kaggle competition] (https://www.kaggle.com/c/home-credit-default-risk) back in year 2018. The goal was to predict the capabiluty of the applicant of repaying of the loan. The given dataset includes current application, previous loan applications, installment payments etc. 
+This reprository is my solution to the [Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk) back in year 2018. The goal was to predict the capabiluty of the applicant of repaying of the loan. The given dataset includes current application, previous loan applications, installment payments etc. 
 
 ## Pre-requisite:
 python3, pandas, sklearn, matplotlib, seaborn, keras, lightgbm, XGBoost.
