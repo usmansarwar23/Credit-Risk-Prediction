@@ -4,5 +4,5 @@ This reprository is my solution to the [Kaggle competition](https://www.kaggle.c
 ## Pre-requisite:
 python3, pandas, sklearn, matplotlib, seaborn, keras, lightgbm, XGBoost.
 
-# Acknowledgement
-1. I would like to thank all the fellow kaggler for their great suggestions and ideas posted on Dicussion and kernel section.    
+### Acknowledgement
+1. I would like to thank all the fellow kagglers for their great suggestions and ideas posted on Dicussion and kernel section.    
